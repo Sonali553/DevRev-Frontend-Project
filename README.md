@@ -3,7 +3,7 @@
 This is a Library Management System Project with Welcome page 
 and the page for searching the books by giving the keywords above the specified column.
 
-##In this project, technologies that are used as follows
+#In this project, technologies that are used as follows#
 
 1.	HTML
 2.	CSS
