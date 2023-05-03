@@ -51,6 +51,10 @@ searchFunction.js:
 scrollFunction:
 
   - This scrollFunction JS file helps to adds the functionality of load while scroll in the table.
+  
+ Hereby attach the hosted website link:
+ 
+  -  https://wonderful-cascaron-5172a3.netlify.app/
 
 
 
